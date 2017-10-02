@@ -16,6 +16,10 @@ public abstract class Person {
     private String address;
     private String test;
     private String testpapa;
+    private String testpapa1;
+    private String testpapa2;
+    private String testpapa3;
+    private String testpapa4;
     private static final String DATE_PATTERN = "^([0-2][0-9]||3[0-1])/(0[0-9]||1[0-2])/([0-9][0-9])?[0-9][0-9]$";
     
     public Person (){
