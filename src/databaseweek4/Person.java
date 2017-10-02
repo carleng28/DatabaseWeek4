@@ -14,6 +14,7 @@ public abstract class Person {
     private String lastName;
     private String dateOfBirth;
     private String address;
+    private String test;
     private static final String DATE_PATTERN = "^([0-2][0-9]||3[0-1])/(0[0-9]||1[0-2])/([0-9][0-9])?[0-9][0-9]$";
     
     public Person (){
